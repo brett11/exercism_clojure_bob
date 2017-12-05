@@ -1,0 +1,19 @@
+(bob/response-for "WHAT THE HELL ARE YOU DOING?!")
+(require 'bob)
+(bob/response-for "WHAT THE HELL ARE YOU DOING?!")
+exit
+(require 'bob)
+(bob/response-for "WHAT THE HELL ARE YOU DOING?!")
+exit
+use 'bob
+(use 'bob)
+response-for "    "
+(response-for "     ")
+exit
+(require 'bob)
+bob/response-for "WHAT THE HELL ARE YOU DOING?"
+(bob/response-for "WHAT THE HELL ARE YOU DOING?")
+(bob/response-for "123 WHAT THE HELL ARE YOU DOING")
+(bob/response-for "")
+(bob/response-for "Yo man")
+exit
